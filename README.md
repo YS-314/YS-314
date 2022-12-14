@@ -1,5 +1,5 @@
 ### 	Hi there 👋
-`rgb(200,0,0)` vdj
+
 <!--
 **YS-314/YS-314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
